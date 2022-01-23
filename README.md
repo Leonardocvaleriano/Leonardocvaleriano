@@ -1,14 +1,14 @@
 - 👋 Hey there! I'm Leonardo valeriano
-_______________________________________________________
+______________________________________________
 - 👀 Exploring new technologies and developing software solutions .
 - 🌱 Learning more about, Front-end and Back-end technologies.  
 - 📫 How to reach me: leonardoconsanivaleriano@gmail.com
-_______________________________________________________
+______________________________________________
 
 🛠 Tech Stack
 
-💻   | C++ | 
-🌐   | JavaScript | CSS | HTML  
+- 💻   | C++ | 
+- 🌐   | JavaScript | CSS | HTML  
 
 
 <!---
