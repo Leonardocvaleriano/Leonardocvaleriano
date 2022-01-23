@@ -7,6 +7,7 @@ ______________________________________________
 - 🌱 Aprendendo mais sobre, tecnologias de Frond-end e Back-end   
 - 📫 Contato: leonardoconsanivaleriano@gmail.com
  
+ 
 🛠 Teck Stack
 
 - 💻   | C++ | 
