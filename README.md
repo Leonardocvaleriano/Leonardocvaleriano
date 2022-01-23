@@ -1,4 +1,4 @@
-- 👋 Hey there! I'm Leonardo valeriano
+👋 Hey there! I'm Leonardo valeriano
 ______________________________________________
 - 👀 Exploring new technologies and developing software solutions .
 - 🌱 Learning more about, Front-end and Back-end technologies.  
