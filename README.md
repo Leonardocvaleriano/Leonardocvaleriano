@@ -1,6 +1,6 @@
 👋 Olá, Eu sou o Leonardo valeriano.
 ______________________________________________
-- 👀 Explorando novas tecnologias e desenvolvendo softwares.
+- 👀 Explorando novas tecnologias para o aprimoramento e desenvolvimento de Software.
 - 🌱 Aprendendo mais sobre, tecnologias de Frond-end e Back-end   
 - 📫 Contato: leonardoconsanivaleriano@gmail.com
 ______________________________________________
