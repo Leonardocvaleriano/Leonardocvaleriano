@@ -1,11 +1,13 @@
 👋 Olá, Eu sou o Leonardo valeriano.
 ______________________________________________
+
+👨🏻‍💻 SOBRE MIM
+
 - 👀 Explorando novas tecnologias para o aprimoramento e desenvolvimento de Software.
 - 🌱 Aprendendo mais sobre, tecnologias de Frond-end e Back-end   
 - 📫 Contato: leonardoconsanivaleriano@gmail.com
-______________________________________________
-
-🛠 Tech Stack
+ 
+🛠 TECK STACK
 
 - 💻   | C++ | 
 - 🌐   | JavaScript | CSS | HTML  
