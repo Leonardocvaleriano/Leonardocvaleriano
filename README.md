@@ -1,8 +1,8 @@
-👋 Hey there! I'm Leonardo valeriano
+👋 Olá, Eu sou o Leonardo valeriano.
 ______________________________________________
-- 👀 Exploring new technologies and developing software solutions .
-- 🌱 Learning more about, Front-end and Back-end technologies.  
-- 📫 How to reach me: leonardoconsanivaleriano@gmail.com
+- 👀 Explorando novas tecnologias e desenvolvendo softwares.
+- 🌱 Aprendendo mais sobre, tecnologias de Frond-end e Back-end   
+- 📫 Contato: leonardoconsanivaleriano@gmail.com
 ______________________________________________
 
 🛠 Tech Stack
