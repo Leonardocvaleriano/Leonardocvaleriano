@@ -1,9 +1,9 @@
 - 👋 Hey there! I'm Leonardo valeriano
-
-
+_______________________________________________________
 - 👀 Exploring new technologies and developing software solutions .
 - 🌱 Learning more about, Front-end and Back-end technologies.  
 - 📫 How to reach me: leonardoconsanivaleriano@gmail.com
+_______________________________________________________
 
 🛠 Tech Stack
 
