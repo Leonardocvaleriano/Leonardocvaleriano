@@ -1,4 +1,4 @@
-👋 Olá, Eu sou o Leonardo valeriano.
+👋 Olá, Eu sou o Leonardo Valeriano.
 ______________________________________________
 
 👨🏻‍💻 Sobre Mim
