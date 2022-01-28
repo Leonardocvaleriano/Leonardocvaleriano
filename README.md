@@ -4,14 +4,13 @@ ______________________________________________
 👨🏻‍💻 Sobre Mim
 
 - 👀 Explorando novas tecnologias para o aprimoramento e desenvolvimento de Software.
-- 🌱 Aprendendo mais sobre, tecnologias de Frond-end e Back-end   
+- 🌱 Aprendendo mais sobre, tecnologias de desenvolvimento Mobile   
 - 📫 Contato: leonardoconsanivaleriano@gmail.com
  
  
 🛠 Teck Stack
 
-- 💻   | C++ | 
-- 🌐   | JavaScript | CSS | HTML  
+- 💻   | Java | Kotlin
 
 
 <!---
