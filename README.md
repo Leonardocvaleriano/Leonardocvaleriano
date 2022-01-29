@@ -4,7 +4,7 @@ ______________________________________________
 👨🏻‍💻 Sobre Mim
 
 - 👀 Explorando novas tecnologias para o aprimoramento e desenvolvimento de Software.
-- 🌱 Aprendendo mais sobre, tecnologias de desenvolvimento Mobile   
+- 🌱 Foco em desenvolvimento Mobile   
 - 📫 Contato: leonardoconsanivaleriano@gmail.com
  
  
