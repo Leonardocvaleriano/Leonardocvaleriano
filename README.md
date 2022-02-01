@@ -1,7 +1,7 @@
-👋 Olá, Eu sou o Leonardo Valeriano.
+Olá, Eu sou o Leonardo Valeriano.👋 
 ______________________________________________
 
-👨🏻‍💻 Sobre Mim
+ Sobre Mim 👨🏻‍💻
 
 - 👀 Explorando novas tecnologias para o aprimoramento e desenvolvimento de Software.
 - 🌱 Foco em desenvolvimento Mobile   
