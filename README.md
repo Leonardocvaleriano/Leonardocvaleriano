@@ -1,14 +1,14 @@
 Olá, Eu sou o Leonardo Valeriano.👋 
 ______________________________________________
 
- <b>Sobre Mim 👨🏻‍💻</b>
+Sobre Mim 👨🏻‍💻
 
 - 👀 Explorando novas tecnologias para o aprimoramento e desenvolvimento de Software.
 - 🌱 Foco em desenvolvimento Mobile   
 - 📫 Contato: leonardoconsanivaleriano@gmail.com
  
  
-<b> 🛠 Teck Stack</b>
+🛠 Teck Stack
 
 - 💻  Android | Java | Kotlin
 
