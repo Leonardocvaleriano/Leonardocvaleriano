@@ -8,7 +8,7 @@ ______________________________________________
 - 📫 Contato: leonardoconsanivaleriano@gmail.com
 <br> 
 🛠 Teck Stack 
-
+</br>
 - 💻  Android | Java | Kotlin
 
 
