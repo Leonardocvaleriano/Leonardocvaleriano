@@ -1,16 +1,16 @@
 Olá, Eu sou o Leonardo Valeriano.👋 
 ______________________________________________
 
-👨🏻‍💻 Sobre Mim 
+<b>👨🏻‍💻 Sobre Mim </b>
 
 - 👀 Explorando novas tecnologias para o aprimoramento e desenvolvimento de Software.
 - 🌱 Foco em desenvolvimento Mobile   
 - 📫 Contato: leonardoconsanivaleriano@gmail.com
-<br> 
-🛠 Teck Stack 
-</br>
-- 💻  Android | Java | Kotlin
 
+<b>🛠 Teck Stack </b>
+ 
+- 💻  Android | Java | Kotlin
+ 
 
 <!---
 Leonardocvaleriano/Leonardocvaleriano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
