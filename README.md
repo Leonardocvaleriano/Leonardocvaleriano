@@ -1,4 +1,4 @@
-Olá, Eu sou o Leonardo Valeriano.👋 
+Olá, eu sou o Leonardo Valeriano.👋 
 ______________________________________________
 
 <b>👨🏻‍💻 Sobre Mim </b>
