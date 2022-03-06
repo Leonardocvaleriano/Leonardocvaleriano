@@ -1,17 +1,19 @@
-Olá, eu sou o Leonardo Valeriano.👋 
-______________________________________________
+<b><h3>Hey, I'm Leonardo Valeriano!</b> 👋 </h3>
 
-<b>👨🏻‍💻 Sobre Mim </b>
-
-- 👀 Explorando novas tecnologias para o aprimoramento e desenvolvimento de Software.
-- 🌱 Foco em desenvolvimento Mobile   
-- 📫 Contato: leonardoconsanivaleriano@gmail.com
-
-<b>🛠 Teck Stack </b>
- 
-- 💻  Android | Java | Kotlin
+ <b>About me</b><br> 
+ Exploring new technologies for the improvement and development of Softwares.<br>
+ Development focused on Mobile
+  
  
 
+ <b> Teck Stack </b> <br> 
+  Android | Java | Kotlin 
+ 
+ <b><h3> Find me elsewhere</b> 🌎</h3> 
+ [Linkedin](https://www.linkedin.com/in/leonardocvaleriano)<br>
+ [Instagram](https://www.instagram.com/leonardocvaleriano/)<br>
+ leonardoconsanivaleriano@gmail.com ✉️
+ 
 <!---
 Leonardocvaleriano/Leonardocvaleriano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
