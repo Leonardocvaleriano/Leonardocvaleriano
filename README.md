@@ -14,7 +14,7 @@
  [Instagram](https://www.instagram.com/leonardocvaleriano/)<br>
  leonardoconsanivaleriano@gmail.com ✉️
  
-<b>BR</b> Born in São Paulo, Brazil<br>
+<b>🇧🇷</b> Born in São Paulo, Brazil<br>
 
 
 <!---
