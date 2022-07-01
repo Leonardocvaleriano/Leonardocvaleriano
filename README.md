@@ -7,7 +7,8 @@
  
 
  <b> Teck Stack </b> <br> 
-  Android | Java | Kotlin 
+  Android | Kotlin  
+  Html | CSS | JavaScript
  
  <b><h3> Find me elsewhere</b> 🌎</h3> 
  [Linkedin](https://www.linkedin.com/in/leonardocvaleriano)<br>
