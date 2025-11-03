@@ -13,9 +13,6 @@
  [Linkedin](https://www.linkedin.com/in/leonardocvaleriano)<br>
  [Instagram](https://www.instagram.com/leonardocvaleriano/)<br>
  leonardoconsanivaleriano@gmail.com ✉️
- 
-<b>🇧🇷</b> Born in São Paulo, Brazil<br>
-<b>🇮🇪</b> Living in Cork, Ireland<br> 
 
 <!---
 Leonardocvaleriano/Leonardocvaleriano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
