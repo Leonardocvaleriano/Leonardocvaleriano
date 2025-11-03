@@ -9,7 +9,8 @@
  <b> Teck Stack </b> <br> 
   Android | Kotlin  
   
- <b><h3> Find me elsewhere</b> 🌎</h3> 
+ <b> Find me elsewhere 🌎</h3> 
+ <br> 
  [Linkedin](https://www.linkedin.com/in/leonardocvaleriano)<br>
  [Instagram](https://www.instagram.com/leonardocvaleriano/)<br>
  leonardoconsanivaleriano@gmail.com ✉️
