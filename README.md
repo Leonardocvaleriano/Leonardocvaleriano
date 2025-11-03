@@ -1,8 +1,7 @@
 <b><h3>Hey, I'm Leonardo Valeriano!</b> 👋 </h3>
 
  <b>About me</b><br> 
- Exploring new technologies for the improvement and development of Softwares.<br>
- Development focused on Mobile
+ I'm a mobile developer, focused in building high scalable, mantainable and easy to read code.
   
  
 
