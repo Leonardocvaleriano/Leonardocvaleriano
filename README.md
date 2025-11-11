@@ -1,8 +1,7 @@
 <b><h3>Hey, I'm Leonardo Valeriano!</b> 👋 </h3>
 
  <b>About me</b><br> 
- I'm a mobile developer, focused in building high scalable, mantainable and easy to read code.
-  
+I'm a mobile developer focused on building highly scalable, maintainable, and readable code.  
  
 
  <b> Teck Stack </b> <br> 
