@@ -5,7 +5,7 @@ I'm a mobile developer focused on building highly scalable, maintainable, and re
  
 
  <b> Teck Stack </b> <br> 
-  Android | Kotlin  
+  Android | Kotlin | Java
   
  <b> Find me elsewhere 🌎</h3> 
  <br> 
